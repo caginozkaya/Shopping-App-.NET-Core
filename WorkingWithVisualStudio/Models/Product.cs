@@ -7,6 +7,7 @@ namespace WorkingWithVisualStudio.Models
 {
     public class Product
     {
+        //Product model
         public string Name { get; set; }
         public decimal Price { get; set; }
     }
